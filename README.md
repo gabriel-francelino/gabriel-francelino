@@ -15,6 +15,7 @@
     <img align="center" height="30" width="40" alt="cpp-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
     <img align="center" height="30" width="40" alt="java-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" height="30" width="40" alt="haskell-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
    </div>
     
   
@@ -25,5 +26,5 @@
   
 </div>
 </div>
-  
-![Snake animation](https://github.com/gabriel-francelino/gabriel-francelino/blob/output/github-contribution-grid-snake.svg)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/gabriel-francelino/gabriel-francelino/output/github-contribution-grid-snake.svg)
