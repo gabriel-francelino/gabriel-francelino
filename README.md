@@ -1,8 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38f723&height=120&section=header"/>
 <h1>Salve galera! Eu sou Gabriel Francelino👋🏼</h1>
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-francelino&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-francelino&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabriel-francelino&bg_color=000000&color=878787&line=42de17&point=d1d1d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1>Linguagens conhecidas</h1>
 <div> 
@@ -27,4 +31,4 @@
 </div>
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/gabriel-francelino/gabriel-francelino/output/github-contribution-grid-snake.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38f723&height=120&section=footer"/>
