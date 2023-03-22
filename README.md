@@ -27,7 +27,6 @@
     <div>  
   <a href = "mailto:gabrielfrancelino3c@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   <a href="https://www.linkedin.com/in/gabrielfrancelino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabriel-francelino&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-francelino" /> </p>
   
 </div>
 </div>
