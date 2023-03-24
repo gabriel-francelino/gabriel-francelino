@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38f723&height=120&section=header"/>
 <h1>Salve galera! Eu sou Gabriel Francelino👋🏼</h1>
 <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-francelino&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-francelino&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-francelino&theme=chartreuse-dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-francelino&layout=compact&theme=chartreuse-dark"/>
 </div>
 <br>
 
