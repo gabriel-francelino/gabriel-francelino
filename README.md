@@ -3,8 +3,8 @@
 
 <div> 
   <a href="https://github.com/gabriel-francelino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-francelino&theme=chartreuse-dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-francelino&layout=compact&theme=chartreuse-dark&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-francelino&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-francelino&layout=compact&theme=chartreuse-dark&langs_count=10&hide_border=true"/>
 </div>
 <br>
 
