@@ -10,7 +10,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabriel-francelino&bg_color=000000&color=878787&line=42de17&point=d1d1d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h1>Linguagens conhecidas</h1>
+<h1>Tecnologias conhecidas</h1>
 <div> 
   <div style="display: inline_block">
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -21,7 +21,8 @@
     <img align="center" height="30" width="40" alt="cpp-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
     <img align="center" height="30" width="40" alt="java-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" height="30" width="40" alt="haskell-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
+    <img align="center" height="30" width="40" alt="spring-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    <img  align="center" height="30" width="40" alt="python-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
    </div>
     
   
