@@ -1,19 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38f723&height=120&section=header"/>
-<h1>Salve galera! Eu sou Gabriel Francelino👋🏼</h1>
+<h1 align="center">Salve galera! Eu sou Gabriel Francelino👋🏼</h1>
 
 <div> 
   <a href="https://github.com/gabriel-francelino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-francelino&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-francelino&layout=compact&theme=chartreuse-dark&langs_count=10&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-francelino&layout=compact&theme=chartreuse-dark&langs_count=10&hide_border=true&hide_progress=true"/>
 </div>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabriel-francelino&bg_color=000000&color=878787&line=42de17&point=d1d1d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabriel-francelino&bg_color=000000&color=878787&line=42de17&point=d1d1d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1>Tecnologias conhecidas</h1>
 <div> 
   <div style="display: inline_block">
-    <img align="left" height="250" alt="coding-time" src="code.gif">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
