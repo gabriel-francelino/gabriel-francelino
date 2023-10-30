@@ -1,5 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38f723&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<div>
+
 <h1 align="center">Salve galera! Gabriel Francelino aqui👋🏼</h1>
+
+<img align="right" alt="Mario developer" width="800" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</div>
+
+<br>
 
 <p> Eu sou estudante de Ciência da Computação na Unifal-MG. Atualmente estou focado em estudar tecnologias na area de back-end. </p>
 
@@ -7,14 +14,14 @@
 
 <div> 
   <a href="https://github.com/gabriel-francelino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-francelino&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-francelino&layout=compact&theme=chartreuse-dark&langs_count=10&hide_border=true&hide_progress=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-francelino&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-francelino&layout=compact&theme=midnight-purple&langs_count=10&hide_border=true&hide_progress=true"/>
 </div>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=gabriel-francelino&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-francelino&layout=compact&theme=chartreuse-dark&langs_count=10&hide_border=true&hide_progress=true) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabriel-francelino&bg_color=000000&color=878787&line=42de17&point=d1d1d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabriel-francelino&bg_color=000000&color=878787&line=7B68EE&point=d1d1d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Línguagens e Tecnologias
 
@@ -46,4 +53,4 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38f723&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
