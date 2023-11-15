@@ -3,7 +3,7 @@
 
 <h1 align="center">Salve galera! Gabriel Francelino aqui👋🏼</h1>
 
-<p> Eu tenho 21 anos e sou estudante de Ciência da Computação na Unifal-MG. Também estou participando da formação "Vem Ser Tech" na trilha back-end da [Ada](https://ada.tech) Atualmente estou focado em estudar tecnologias na area de back-end. </p>
+Eu tenho 21 anos e sou estudante de Ciência da Computação na Unifal-MG. Também estou participando da formação ["Vem Ser Tech"](https://ada.tech/sou-aluno/programas/ifood-vem-ser-tech) na trilha back-end da [Ada](https://ada.tech) Atualmente estou focado em estudar tecnologias na area de back-end. Além disso sou uma pessoa que está sempre buscando por novos conhecimentos.
 
 <img align="center" alt="Mario developer" width="800" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
@@ -44,9 +44,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypesScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-
 
 <div> 
 
