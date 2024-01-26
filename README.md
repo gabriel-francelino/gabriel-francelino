@@ -3,25 +3,12 @@
 
 <h1 align="center">Salve galera! Gabriel Francelino aqui👋🏼</h1>
 
-Eu tenho 21 anos e sou estudante de Ciência da Computação na Unifal-MG. Também estou participando da formação ["Vem Ser Tech"](https://ada.tech/sou-aluno/programas/ifood-vem-ser-tech) na trilha back-end da [Ada](https://ada.tech) Atualmente estou focado em estudar tecnologias na area de back-end. Além disso sou uma pessoa que está sempre buscando por novos conhecimentos.
+Eu tenho 21 anos e sou estudante de Ciência da Computação na Unifal-MG e formação em Téc. em Informática pelo IFSULDEMINAS. Também estou participando da formação ["Vem Ser Tech"](https://ada.tech/sou-aluno/programas/ifood-vem-ser-tech) na trilha back-end da [Ada](https://ada.tech) Atualmente estou focado em estudar tecnologias na area de back-end. Além disso sou uma pessoa que está sempre buscando por novos conhecimentos.
 
 <img align="center" alt="Mario developer" width="800" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
 
 <br>
-
-## Estatísticas
-
-<div> 
-  <a href="https://github.com/gabriel-francelino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-francelino&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-francelino&layout=compact&theme=midnight-purple&langs_count=10&hide_border=true&hide_progress=true"/>
-</div>
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=gabriel-francelino&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-francelino&layout=compact&theme=chartreuse-dark&langs_count=10&hide_border=true&hide_progress=true) -->
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabriel-francelino&bg_color=000000&color=878787&line=7B68EE&point=d1d1d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Línguagens e Tecnologias
 
@@ -44,6 +31,7 @@ Eu tenho 21 anos e sou estudante de Ciência da Computação na Unifal-MG. Tamb�
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypesScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <div> 
 
