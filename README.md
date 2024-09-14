@@ -3,7 +3,7 @@
 
 <h1 align="center">Salve galera! Gabriel Francelino aqui👋🏼</h1>
 
-<p align="center">💻 Eu tenho 21 anos e sou estudante do 7° período de Ciência da Computação na UNIFAL-MG.<p/>
+<p align="center">💻 Eu tenho 21 anos e sou estudante do 8° período de Ciência da Computação na UNIFAL-MG.<p/>
 
 <p align="center">👨‍🎓 Formação em Técnico em Informática pelo IFSULDEMINAS.<p/>
 
