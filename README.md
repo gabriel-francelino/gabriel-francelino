@@ -7,7 +7,7 @@
 
 <p align="center">👨‍🎓 Formação em Técnico em Informática pelo IFSULDEMINAS.<p/>
 
-<p align="center">📚 Atualmente estou focado em estudar tecnologias na área de back-end como Java, Spring, Banco de Dados, Typescript, Express.js, etc.<p/>
+<p align="center">📚 Atualmente estou focado em estudar tecnologias na área de back-end como Java, Spring, Banco de Dados, Microsserviços, Testes automatizados, etc.<p/>
 
 <p align="center">😎 Adoro assistir filmes, séries, jogar e escutar músicas no meu tempo livre.<p/>
 
