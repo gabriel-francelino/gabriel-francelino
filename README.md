@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 <div>
 
-<h1 align="center">Salve galera! Gabriel Francelino aqui👋🏼</h1>
+<h1 align="center">Bem vindos! Gabriel Francelino aqui👋🏼</h1>
 
-<p align="center">💻 Eu tenho 21 anos e sou estudante do 8° período de Ciência da Computação na UNIFAL-MG.<p/>
-
-<p align="center">👨‍🎓 Formação em Técnico em Informática pelo IFSULDEMINAS.<p/>
+<p align="center">💻 Formado em Ciência da Computação na UNIFAL-MG e trabalhando atualmente como desenvolvedor no Grupo Grão de Ouro.<p/>
 
 <p align="center">📚 Atualmente estou focado em estudar tecnologias na área de back-end como Java, Spring, Banco de Dados, Microsserviços, Testes automatizados, etc.<p/>
+
+<p align="center">🧠 Venho estudando como utilizar IA para ganhar produtividade no desenvolvimento, sem ficar dependente dela.<p/>
 
 <p align="center">😎 Adoro assistir filmes, séries, jogar e escutar músicas no meu tempo livre.<p/>
 
@@ -19,11 +19,19 @@
 
 ## Línguagens e Tecnologias
 
-### 🌐 Web Back-End 
+### 🌐 Desesnvolvimento Web
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
-![TypesScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![C#/.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=Blazor&logoColor=white)
+![Testes Automatizados](https://img.shields.io/badge/Testes%20Automatizados-2C2C2C?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white)
+
+### 📄 Banco de dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
+![H2Database](https://img.shields.io/badge/H2DATABASE-87B3E0.svg?style=for-the-badge&logo=H2&logoColor=white)
 
 ### 💡 Conhecimento básico
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -37,22 +45,15 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
-
+<!--
 ### 📚 Estudando no momento
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
-![Testes Automatizados](https://img.shields.io/badge/Testes%20Automatizados-2C2C2C?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white)
-<!-- ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) -->
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypesScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-
-### 📄 Banco de dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
-![H2Database](https://img.shields.io/badge/H2DATABASE-87B3E0.svg?style=for-the-badge&logo=H2&logoColor=white)
+-->
 
 <div align="center"> 
 
